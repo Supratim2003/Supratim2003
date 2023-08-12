@@ -23,5 +23,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Supratim2003&"> <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Supratim2003&show_icons=true&locale=en&layout=compact"><br><br></p> 
 
+🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Supratim2003&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 
 </a> </p>
