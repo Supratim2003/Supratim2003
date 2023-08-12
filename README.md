@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate Computer Application Student from India</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><a href="https://www.flaticon.com/free-icons/contact-us" title="contact us icons">Contact us icons created by Uniconlabs - Flaticon</a> Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/supratim-das-a92556211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supratim-das-a92556211" height="30" width="40" /></a>
 <a href="https://www.facebook.com/supratim.das.1401?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="htsupratim.das.1401?mibextid=zbwkwl" height="30" width="40" /></a>
