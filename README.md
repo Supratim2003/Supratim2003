@@ -7,10 +7,12 @@
 <h3 align="center">A passionate Computer Application Student from India</h3>
 
 <h3 align="left">🔭 Links to connect me:</h3>
+<p align="center">
 <p align="left">
 <a href="https://linkedin.com/in/supratim-das-a92556211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supratim-das-a92556211" height="30" width="40" /></a>
 <a href="https://www.facebook.com/supratim.das.1401?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="htsupratim.das.1401?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/supratim__das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supratim__das" height="30" width="40" /></a>
+</p>
 </p>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
