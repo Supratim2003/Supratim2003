@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm SUPRATIM DAS</h1>
 <img alt="Coder GIF" height=500 width=1000 src="https://camo.githubusercontent.com/13b486d971f17b46ffd6cda9cb2699a71d0c784d53d75eddfb345e2000f46824/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323334343830312f73637265656e73686f74732f343737343537382f616c70686174657374657273616e696d6174696f6e322e676966" />
 
+<p align="center"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Supratim2003&style=flat&labelColor=black&logo=awesomelists&label=PROFILE+VIEWS&color=fc620f"> &nbsp; <img src="https://img.shields.io/github/last-commit/Supratim2003/Supratim2003?logo=markdown&label=LAST+UPDATE&color=FDCD0F&style=flat"></p>
 <h3 align="center">A passionate Computer Application Student from India</h3>
 
 <h3 align="left">🔭 Links to connect me:</h3>
